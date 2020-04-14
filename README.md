@@ -1,14 +1,18 @@
 # average-product-rating
 
+## Description:
+This Hadoop MapReduce Java program processes large data sets to calculate the average rating and count of various products. MapReduce programs are very useful in dealing with big data. It can be used on AWS datasets.  
+
 ## Tools you need:
 - Eclipse
 - A computer
 - Internet connection
 - Cloudera Quickstart VM
 
-## Steps - Assumes you are using Clouder Quickstart VM
+## Steps - Assumes you are using Cloudera Quickstart VM
+Note: If you plan on using the test_file, git clone the repository.
 
-1. Git clone or download from https://github.com/JosephTseng1/average-product-rating and save the download folder 
+1. Git clone or download from https://github.com/JosephTseng1/average-product-rating and save the download folder
 2. Open up eclipse 
 3. Click File-> New -> Java Project
 4. Name it whatever you want and click finish once you save it to a secure location 
